@@ -1,10 +1,10 @@
 # IA-340-Ibrahim
 Data Mining
 Testing to see how this works edit button top right corner
-### im mr 2 slipper
-1. Wakka
-2. Flakka
-3. flame
+### test
+1. hi
+2. hello
+3. fire
 - mini project
 - starting
 - *Formatting is cool*
